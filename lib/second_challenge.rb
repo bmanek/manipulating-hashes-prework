@@ -10,7 +10,7 @@ def second_challenge
   
   groceries.each do |categories, items|
     categories.values do |items|
-      puts "#{items"
+      puts "#{items}"
     end
   end
 
